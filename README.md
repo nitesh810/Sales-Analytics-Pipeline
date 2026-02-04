@@ -51,13 +51,12 @@ This project demonstrates a **Python ETL pipeline using PySpark** to process sal
 1. Install PySpark: `pip install pyspark`
 2. Navigate to the project folder
 3. Run the ETL job:
-```bash
-python etl_jobs/sales_etl.py
+bash : python etl_jobs/sales_etl.py
 4. Output CSVs will be generated in output/bronze_sales, output/silver_sales, and output/gold_*.
 
 ## Repository Structure
 
-```bash
+```
 sales_analytics_pipeline/
 │
 ├── etl_jobs/
