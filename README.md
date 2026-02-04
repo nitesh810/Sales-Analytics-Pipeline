@@ -9,7 +9,7 @@ This project demonstrates a **Python ETL pipeline using PySpark** to process sal
 
 ## Technology Stack
 - **Languages:** Python, PySpark, SQL
-- **Databases:** SQLite (can be replaced with PostgreSQL)
+- **Databases:** SQLite
 - **Tools:** Git/GitHub
 - **Data Format:** CSV
 
