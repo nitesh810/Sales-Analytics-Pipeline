@@ -57,7 +57,7 @@ python etl_jobs/sales_etl.py
 
 ## Repository Structure
 
-```
+```bash
 sales_analytics_pipeline/
 │
 ├── etl_jobs/
@@ -73,3 +73,4 @@ sales_analytics_pipeline/
 │
 └── README.md                  # Project description, architecture, data flow, KPIs
 ```
+___
