@@ -1,7 +1,7 @@
 # Sales Analytics Pipeline
 
 ## Project Overview
-This project demonstrates a **Python ETL pipeline using PySpark** to process sales CSV data, clean, transform, and generate **analytics-ready datasets**. The pipeline follows a **Bronze → Silver → Gold** architecture, a common best practice in data engineering.
+This project demonstrates a **Python ETL pipeline using PySpark** to process sales CSV data, clean, transform, and generate **analytics-ready datasets**. The pipeline follows a **Bronze → Silver → Gold** architecture.
 
 - **Bronze Layer:** Raw ingestion of sales CSV data.
 - **Silver Layer:** Data cleaning, deduplication, and standardization.
